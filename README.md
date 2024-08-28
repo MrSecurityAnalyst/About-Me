@@ -12,25 +12,25 @@ I'm passionate about advancing the security landscape by bridging the gap betwee
 I'm currently deepening my expertise in advanced web application security and exploring new methodologies in vulnerability assessment and penetration testing (VAPT). Additionally, I'm focused on enhancing my skills in purple teaming to effectively integrate offensive and defensive strategies.
 
 ### 🛠️ Skills & Expertise
-🔍 Vulnerability Assessment and Penetration Testing (VAPT)
-🛡️ Purple Teaming
-🌐 Advanced Web Application Security
-📱 Mobile Application Security
-🛠️ API Penetration Testing
-🤖 Scripting and Automation Security Research
-🚨 Advanced Threat Detection and Response
-🛠️ Zero-Day Vulnerability Research
-📡 Wireless Network Security Testing
-🧱 Firewall and IDS/IPS Testing
-🎓 Security Awareness and Training Programs
-🕵️ Incident Response and Digital Forensics
-🌐 Network Security Engineering
-🔬 Reverse Engineering
-🧠 Cyber Threat Intelligence
-📊 Compliance and Risk Management Analyst (GRC Analyst)
-🔐 Data Encryption and Cryptography
-🎣 Social Engineering and Phishing Defense
-🛡️ Identity and Access Management (IAM)
+- 🔍 Vulnerability Assessment and Penetration Testing (VAPT)
+- 🛡️ Purple Teaming
+- 🌐 Advanced Web Application Security
+- 📱 Mobile Application Security
+- 🛠️ API Penetration Testing
+- 🤖 Scripting and Automation Security Research
+- 🚨 Advanced Threat Detection and Response
+- 🛠️ Zero-Day Vulnerability Research
+- 📡 Wireless Network Security Testing
+- 🧱 Firewall and IDS/IPS Testing
+- 🎓 Security Awareness and Training Programs
+- 🕵️ Incident Response and Digital Forensics
+- 🌐 Network Security Engineering
+- 🔬 Reverse Engineering
+- 🧠 Cyber Threat Intelligence
+- 📊 Compliance and Risk Management Analyst (GRC Analyst)
+- 🔐 Data Encryption and Cryptography
+- 🎣 Social Engineering and Phishing Defense
+- 🛡️ Identity and Access Management (IAM)
 
 ### 🎓 Certifications
 - 🛡️ **Certified Purple Team Analyst**
